@@ -2,7 +2,8 @@
 
 Este é um projeto simples de "Amigo Secreto" desenvolvido em HTML, CSS e JavaScript. O objetivo é permitir que os usuários insiram nomes de amigos em uma lista e realizem um sorteio aleatório para determinar quem é o "amigo secreto".
 
-![Logo do Amigo Secreto](C:\Users\MICROSOFT\Desktop\renato\ORACLE - ALURA\LOGICA DE PROGRAMACAO\AMIGO SECRETO\challenge-amigo-secreto_pt-main\assets/amigo-secreto-print.PNG)
+![Logo do Amigo Secreto](assets/amigo-secreto-print.PNG)
+
 
 ## Funcionalidades
 
